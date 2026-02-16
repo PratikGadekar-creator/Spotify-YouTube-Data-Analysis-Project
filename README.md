@@ -57,5 +57,5 @@ The goal was to extract meaningful insights about artists, tracks, album types, 
 ---
 
 ## 👨‍💻 Author
-Your Name
+
 Pratik Gadekar
